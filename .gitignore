@@ -1,0 +1,11 @@
+# ignore local secret files
+.env
+secrets.ps1
+run-tests.ps1
+
+# IDE/build/etc
+.DS_Store
+Thumbs.db
+target/
+.idea/
+*.iml
